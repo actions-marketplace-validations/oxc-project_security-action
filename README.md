@@ -22,3 +22,11 @@ rules:
 ```
 
 The cargo-deny check passes its bundled config file at `${{ github.action_path }}/deny.toml` to `cargo-deny`.
+
+# [Sponsored By](https://oxc.rs/sponsor)
+
+<p align="center">
+  <a href="https://oxc.rs/sponsor">
+    <img src="https://raw.githubusercontent.com/oxc-project/sponsors/main/sponsors.svg" alt="Our sponsors" />
+  </a>
+</p>
